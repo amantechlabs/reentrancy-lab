@@ -1,0 +1,45 @@
+{
+  "/workspaces/codespaces-blank/reentrancy-lab/contracts/ReentrancyAttacker.sol": {
+    "jobHash": "solc-0_8_24-3b88531cabc6ad2046b6299cb95ae97363b6f57d",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "/workspaces/codespaces-blank/reentrancy-lab/artifacts/contracts/ReentrancyAttacker.sol/IVault.json",
+      "/workspaces/codespaces-blank/reentrancy-lab/artifacts/contracts/ReentrancyAttacker.sol/ReentrancyAttacker.json"
+    ],
+    "buildInfoPath": "/workspaces/codespaces-blank/reentrancy-lab/artifacts/build-info/solc-0_8_24-190c90a7185628be403e639a11ad70ce03ff2d46.json",
+    "buildInfoOutputPath": "/workspaces/codespaces-blank/reentrancy-lab/artifacts/build-info/solc-0_8_24-190c90a7185628be403e639a11ad70ce03ff2d46.output.json",
+    "typeFilePath": "/workspaces/codespaces-blank/reentrancy-lab/artifacts/contracts/ReentrancyAttacker.sol/artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "/workspaces/codespaces-blank/reentrancy-lab/artifacts",
+    "emitsTypeDeclarations": true
+  },
+  "/workspaces/codespaces-blank/reentrancy-lab/contracts/SecureVault.sol": {
+    "jobHash": "solc-0_8_24-1b6b683fc2b80a122f43cdb2990a4d0f5ce86d2a",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "/workspaces/codespaces-blank/reentrancy-lab/artifacts/contracts/SecureVault.sol/SecureVault.json"
+    ],
+    "buildInfoPath": "/workspaces/codespaces-blank/reentrancy-lab/artifacts/build-info/solc-0_8_24-190c90a7185628be403e639a11ad70ce03ff2d46.json",
+    "buildInfoOutputPath": "/workspaces/codespaces-blank/reentrancy-lab/artifacts/build-info/solc-0_8_24-190c90a7185628be403e639a11ad70ce03ff2d46.output.json",
+    "typeFilePath": "/workspaces/codespaces-blank/reentrancy-lab/artifacts/contracts/SecureVault.sol/artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "/workspaces/codespaces-blank/reentrancy-lab/artifacts",
+    "emitsTypeDeclarations": true
+  },
+  "/workspaces/codespaces-blank/reentrancy-lab/contracts/VulnerableVault.sol": {
+    "jobHash": "solc-0_8_24-10755ba5873bb484d243cfb812319887f51db285",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "/workspaces/codespaces-blank/reentrancy-lab/artifacts/contracts/VulnerableVault.sol/VulnerableVault.json"
+    ],
+    "buildInfoPath": "/workspaces/codespaces-blank/reentrancy-lab/artifacts/build-info/solc-0_8_24-190c90a7185628be403e639a11ad70ce03ff2d46.json",
+    "buildInfoOutputPath": "/workspaces/codespaces-blank/reentrancy-lab/artifacts/build-info/solc-0_8_24-190c90a7185628be403e639a11ad70ce03ff2d46.output.json",
+    "typeFilePath": "/workspaces/codespaces-blank/reentrancy-lab/artifacts/contracts/VulnerableVault.sol/artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "/workspaces/codespaces-blank/reentrancy-lab/artifacts",
+    "emitsTypeDeclarations": true
+  }
+}

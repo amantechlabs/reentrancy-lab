@@ -1,0 +1,28 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "IVault",
+  "sourceName": "contracts/ReentrancyAttacker.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "deposit",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "withdraw",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/ReentrancyAttacker.sol",
+  "buildInfoId": "solc-0_8_24-190c90a7185628be403e639a11ad70ce03ff2d46"
+}
